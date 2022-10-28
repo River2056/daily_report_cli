@@ -1,0 +1,9 @@
+[submodule "external/json"]
+	path = external/json
+	url = https://github.com/nlohmann/json
+[submodule "external/ClipboardXX"]
+	path = external/ClipboardXX
+	url = https://github.com/Arian8j2/ClipboardXX
+[submodule "external/yaml-cpp"]
+	path = external/yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp

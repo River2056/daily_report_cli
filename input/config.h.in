@@ -1,0 +1,2 @@
+static constexpr char *const json_input_path = "report.json";
+static constexpr char *const yaml_input_path = "report.yaml";

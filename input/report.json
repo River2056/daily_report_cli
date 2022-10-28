@@ -1,0 +1,29 @@
+{
+  "date": "10/26",
+  "work": [
+    {
+      "title": "ACM-XXXX",
+      "progress": 90,
+      "time": 1,
+      "details": ["test", "test2", "test3", "test4"]
+    },
+    {
+      "title": "ACM-OOOO",
+      "progress": 50,
+      "time": 2,
+      "details": ["test", "test2", "test3", "test4", "test5"]
+    },
+    {
+      "title": "extras",
+      "progress": -1,
+      "time": 5,
+      "details": ["test", "test2", "test3", "test4", "test5", "test6"]
+    },
+    {
+      "title": "daily standup",
+      "progress": -1,
+      "time": 0.5,
+      "details": []
+    }
+  ]
+}

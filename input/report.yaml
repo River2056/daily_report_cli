@@ -1,0 +1,36 @@
+date: 10/27
+work:
+  - title: ACM-TEST
+    progress: 90
+    time: 1
+    details:
+      - test123
+      - test223
+      - hfhfhf
+      - opopop
+
+  - title: ACM-TEST-2
+    progress: 50
+    time: 2
+    details:
+      - 123
+      - 2234
+      - gggg234
+      - uuuu345
+      - iiioooo
+
+  - title: extras
+    progress: -1
+    time: 5
+    details:
+      - test
+      - test2
+      - test3
+      - test4
+      - test5
+      - test6
+
+  - title: daily standup
+    progress: -1
+    time: 0.5
+    details:
